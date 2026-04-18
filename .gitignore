@@ -130,3 +130,4 @@ yarn-error.log*
 *.zip          # não suba zips de backup no repositório
 *.tar.gz
 /tmp/
+vendor/
